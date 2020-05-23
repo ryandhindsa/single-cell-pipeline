@@ -1,0 +1,5 @@
+ sample.name	genotype	gender	species	path
+Het_F	HET	F	mouse	/Users/ryandhindsa/scRNA/seurat_v3/projects/hnrnpu_cortex/data/scRNA_matrices/DS001_Het_F/filtered_gene_bc_matrices/mm10/
+Het_M	HET	M	mouse	/Users/ryandhindsa/scRNA/seurat_v3/projects/hnrnpu_cortex/data/scRNA_matrices/DS002_Het_M/filtered_gene_bc_matrices/mm10/
+WT_F	WT	F	mouse	/Users/ryandhindsa/scRNA/seurat_v3/projects/hnrnpu_cortex/data/scRNA_matrices/DS004_WT_F/filtered_gene_bc_matrices/mm10/
+WT_M	WT	M	mouse	/Users/ryandhindsa/scRNA/seurat_v3/projects/hnrnpu_cortex/data/scRNA_matrices/DS003_WT_M/filtered_gene_bc_matrices/mm10/

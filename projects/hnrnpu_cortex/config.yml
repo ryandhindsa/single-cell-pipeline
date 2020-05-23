@@ -1,0 +1,31 @@
+sample_matrix: "scRNA/seurat_v3/projects/hnrnpu_cortex/sample_matrix.txt"
+
+project_name: "hnrnpu_p0_cortex"
+
+qc:
+    min_cells: 4
+    min_features: 200
+    min_n_genes: 1200
+    max_n_genes: 4000
+    max_umi: 18000
+    max_pct_mito: 0.08
+
+output:
+    dir: "scRNA/seurat_v3/projects/hnrnpu_cortex/results"
+    integrated_obj: "scRNA/seurat_v3/projects/hnrnpu_cortex/results/hnrnpu_cortex_integrated.rds"
+
+integration:
+    dims_to_calc: 30
+
+clustering:
+    n_dims: 30
+    resolution: 1.2
+    umap_seed: 42
+    markers: "scRNA/seurat_v3/projects/hnrnpu_cortex/data/markers_to_plot.txt"
+    annotations: "scRNA/seurat_v3/projects/hnrnpu_cortex/data/cluster_annotations.txt"
+
+dge:
+    logfc: 0.01
+    min.pct: 0.1
+    geno1: HET
+    geno2: WT

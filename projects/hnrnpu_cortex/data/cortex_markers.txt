@@ -1,0 +1,18 @@
+excitatory	Neurod6
+inhib	Gad2
+prolif	Top2a
+
+# Inhib:
+LGE	Ebf1
+MGE	Lhx6
+Striatal projection	Adora2a
+CGE	Nr2f2
+
+# Excitatory
+Layer 2-4	Satb2
+Layer 5-6	Bcl11b (Ctip2)
+
+Others:
+Astrocytes	Aqp4
+IP	Eomes, Elavl4, Neurod1
+

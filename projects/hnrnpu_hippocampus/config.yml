@@ -1,0 +1,31 @@
+sample_matrix: "~/Dropbox/scRNA/projects/hnrnpu_hippocampus/sample_matrix.txt"
+
+project_name: "hnrnpu_p0_hippo"
+
+qc:
+    min_cells: 4
+    min_features: 200
+    min_n_genes: 1000
+    max_n_genes: 5000
+    max_umi: 18000
+    max_pct_mito: .15
+
+output:
+    dir: "~/Dropbox/scRNA/projects/hnrnpu_hippocampus/results"
+    integrated_obj: "~/Dropbox/scRNA/seurat_v3/projects/hnrnpu_hippocampus/results/hnrnpu_hippo_integrated.rds"
+
+integration:
+    dims_to_calc: 30
+
+clustering:
+    n_dims: 30
+    resolution: 0.8
+    umap_seed: 1
+    markers: "~/Dropbox/scRNA/projects/hnrnpu_hippocampus/data/markers_to_plot.txt"
+    annotations: "~/Dropbox/scRNA/projects/hnrnpu_hippocampus/data/cluster_annotations.txt"
+
+dge:
+    logfc: 0.01
+    min.pct: 0.1
+    geno1: HET
+    geno2: WT

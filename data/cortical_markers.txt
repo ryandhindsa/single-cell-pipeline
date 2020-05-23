@@ -1,0 +1,16 @@
+cluster	marker
+Prolif.	Top2a
+Astrocyte	Aqp4
+Radial Glia	Pax6
+Excitatory	Neurod6
+IP	Eomes
+L2-4	Satb2
+L5/6	Bcl11b
+Cajal	Reln
+OPC	Pdgfra
+Inhibitory	Gad2
+Inhib. Progenitor	Dlx1
+VIP	Vip
+SST	Sst
+SPN	Adora2a
+LGE	Ebf1

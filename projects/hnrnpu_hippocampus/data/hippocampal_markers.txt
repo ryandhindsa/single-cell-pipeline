@@ -1,0 +1,16 @@
+subiculum	Tshz2
+Vip	Vip
+Cajal	Reln
+Sst	Sst
+Entorhinal	Nxph2
+CA2/3	Grik4
+CA1	Pou3f1
+Dentate	Prox1
+Int_Progen	Eomes
+Radial_glia	Pax6/Vim/Nes/Aqp-/Top2a-
+Neural stem cell	Top2a/Mki67
+Ependyma	Spata18
+SMC	Bgn
+Astrocytes	Aqp4
+OPC	Pdgfra
+Microglia	C1qa

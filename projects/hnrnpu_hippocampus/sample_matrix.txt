@@ -1,0 +1,5 @@
+sample.name	genotype	gender	species	path
+Het_M_hippo	HET	M	mouse	~/Dropbox/scRNA/projects/hnrnpu_hippocampus/data/scRNA_matrices/DS005/filtered_gene_bc_matrices/mm10
+Het_F_hippo	HET	F	mouse	~/Dropbox/scRNA/projects/hnrnpu_hippocampus/data/scRNA_matrices/DS006/filtered_gene_bc_matrices/mm10
+WT_F_hippo	WT	F	mouse	~/Dropbox/scRNA/projects/hnrnpu_hippocampus/data/scRNA_matrices/DS007/filtered_gene_bc_matrices/mm10
+WT_M_hippo	WT	M	mouse	~/Dropbox/scRNA/projects/hnrnpu_hippocampus/data/scRNA_matrices/DS008/filtered_gene_bc_matrices/mm10

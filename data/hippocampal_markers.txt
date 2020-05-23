@@ -1,0 +1,15 @@
+cluster	marker
+Prolif.	Top2a
+Astrocyte	Aqp4
+Radial Glia	Pax6
+Excitatory	Neurod6
+IP	Eomes
+OPC	Pdgfra
+Dentate	Prox1
+CA1	Sertm1
+CA2/CA3	Nrp2
+Subiculum	Tshz2
+Entorhinal cortex	Nxph3
+Cajal	Reln
+SST	Sst
+VIP	Vip

@@ -1,0 +1,30 @@
+old	new
+2	IP
+22	IP
+14	Radial Glia
+17	Astrocyte
+8	NSC
+18	OPC
+1	L2-4
+4	L2-4
+9	L2-4
+3	L2-4
+7	L2-4
+15	L2-4
+11	Gad2+ Progen
+16	Gad2+ Progen
+19	Gad2+ Progen
+6	L5/6
+12	L5/6
+20	L5/6
+13	VIP
+0	SST
+25	SST
+21	SST
+10	LGE
+5	SPN
+24	SMC
+23	Cajal
+26	Microglia
+28	Endothelial
+27	Ependymal
